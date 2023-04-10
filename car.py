@@ -1,4 +1,4 @@
-class car(object):
+class car:
 
     def __init__(self, model, colour, engine):
         self.model = model
